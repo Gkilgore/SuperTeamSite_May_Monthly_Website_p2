@@ -48,20 +48,7 @@ function generateTeamCards() {
       default:
         backgroundColor = '#6c757d' // Gray for other positions
     }
-
-
-
-
-
-
-
-
-
     card.style.backgroundColor = backgroundColor
-
-
-
-
 
     //Create a list of Skills with <li> tags
     const skillsList = member.skills
